@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
 
 <head>
@@ -593,11 +593,6 @@
           <h5 class="card-title">Wedding</h5>
           <p class="card-text">Grand Palace</p>
           <a href="#" class="btn btn-dark">Scan QR For Location</a>
-
-
-
-
-
         </div>
       </div>
     </div>
@@ -652,11 +647,6 @@
           <h5 class="card-title">Valima</h5>
           <p class="card-text">Sadabahar Banquet</p>
           <a href="#" class="btn btn-dark">Scan QR For Location</a>
-
-
-
-
-
         </div>
       </div>
     </div>
