@@ -10,7 +10,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-  
+  <title>Owais & Zulaikha</title>
 
   <style>
     .fs {
@@ -38,7 +38,7 @@
 </head>
 
 <body>
-  
+  <h1>Owais & Zulaikha</h1>
 
 
   <header>
@@ -166,24 +166,47 @@
 
         <h1 style="font-family: 'Times New Roman', Times, serif;">Wedding Wishes for Owais & Zulaikha</h1>
 
-<br>
         <h4>Dear Owais and Zulaikha,</h4>
-<br>
+
         <p>Today marks the beginning of a beautiful new chapter in your lives, and we couldn’t
-          be happier to witness this special moment.
-          May your union be filled with endless love, laughter,
+          be happier to witness this special moment. May your union be filled with endless love, laughter,
           and unwavering support for each other.
-<br>
-          Owais, as you take Zulaikha's hand, may you always cherish and protect her with all your heart.
-          Zulaikha,as you walk beside Owais, may your days together be filled with joy and understanding, creating memories that
+
+          Owais, as you take Zulaikha's hand, may you always cherish and protect her with all your heart. Zulaikha,
+          as you walk beside Owais, may your days together be filled with joy and understanding, creating memories that
           last a lifetime.
 
           Together, may you both build a life full of happiness, respect, and the kind of love that only grows stronger
           with time.
           May your journey together be blessed, and may you always find comfort and strength in each other’s presence.
         </p>
-</div>
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+
+    </div>
 
 
 
@@ -222,7 +245,13 @@
         <div class="carousel-item">
           <img src="valima.jpg" class="d-block w-100" alt="...">
         </div>
-</div>
+
+
+
+
+
+
+      </div>
 
     </div>
 
@@ -236,7 +265,9 @@
     <div class="d-flex justify-content-center ">
 
       <h1>"بَارَكَ اللَّهُ لَكَ، وَبَارَكَ عَلَيْكَ، وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ"</h1>
-</div>
+
+
+    </div>
 
 
 
@@ -276,7 +307,9 @@
 
 
 
-    
+    </div>
+    </div>
+    </div>
     <br><br>
     <div class=" d-flex justify-content-center">
 
@@ -323,7 +356,13 @@
 
 
 
-  
+    </div>
+    </div>
+    </div>
+
+
+
+    </div>
 
     <br><br>
 
@@ -361,7 +400,13 @@
 
 
 
-  
+    </div>
+    </div>
+    </div>
+
+
+
+    </div>
 
     <br><br>
 
@@ -408,7 +453,13 @@
 
 
 
-   
+    </div>
+    </div>
+    </div>
+
+
+
+    </div>
 
     <br><br>
 
@@ -486,7 +537,13 @@
 
 
 
-   
+    </div>
+    </div>
+    </div>
+
+
+
+    </div>
 
     <br><br>
 
@@ -563,7 +620,13 @@
 
 
 
- 
+    </div>
+    </div>
+    </div>
+
+
+
+    </div>
 
     <br><br>
 
@@ -673,6 +736,40 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   </main>
 
 
@@ -690,7 +787,7 @@
 
     </div>
 
-    <div style="list-style: none; class="my-5">
+    <div style="list-style: none;">
       <h1>Be aware of your surroundings</h1>
       <li>Keep your bag secure</li>
       <li>Stay calm</li>
